@@ -1,0 +1,6 @@
+I:\CSHARP FINAL\Lab 2 (course)\Lab 2 (course)\bin\Debug\Lab 2 (course).exe.config
+I:\CSHARP FINAL\Lab 2 (course)\Lab 2 (course)\bin\Debug\Lab 2 (course).exe
+I:\CSHARP FINAL\Lab 2 (course)\Lab 2 (course)\bin\Debug\Lab 2 (course).pdb
+I:\CSHARP FINAL\Lab 2 (course)\Lab 2 (course)\obj\Debug\Lab 2 (course).csprojResolveAssemblyReference.cache
+I:\CSHARP FINAL\Lab 2 (course)\Lab 2 (course)\obj\Debug\Lab 2 (course).exe
+I:\CSHARP FINAL\Lab 2 (course)\Lab 2 (course)\obj\Debug\Lab 2 (course).pdb

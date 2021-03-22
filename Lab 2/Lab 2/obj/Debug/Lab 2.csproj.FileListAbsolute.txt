@@ -1,0 +1,6 @@
+I:\CSHARP FINAL\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+I:\CSHARP FINAL\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+I:\CSHARP FINAL\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+I:\CSHARP FINAL\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+I:\CSHARP FINAL\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+I:\CSHARP FINAL\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
